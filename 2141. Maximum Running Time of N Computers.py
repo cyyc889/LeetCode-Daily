@@ -8,4 +8,3 @@ class Solution:
                 return s // n
             s -= b
             n -= 1
-
